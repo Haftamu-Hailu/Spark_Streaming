@@ -1,0 +1,5 @@
+consumerKey = cccccckkk
+consumerSecret = ccccccsssskkk
+accessToken = 273891022-aaaak
+accessTokenSecret = aaaaasssskkkkk
+
